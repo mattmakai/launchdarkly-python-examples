@@ -1,0 +1,4 @@
+assemblyai==0.26.0
+Flask==3.0.3
+launchdarkly-server-sdk==9.4.0
+validators==0.28.3
